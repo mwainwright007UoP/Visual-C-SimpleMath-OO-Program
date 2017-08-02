@@ -1,0 +1,18 @@
+﻿Build started 7/9/2017 4:15:14 PM.
+     1>Project "C:\Users\hsoehner\Documents\Mike's Stuff\School\PRG410\MWainwright_Week5_OOP_Calc\MWainwright_Week5_OOP_Calc\MWainwright_Week5_OOP_Calc.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MWainwright_Week5_OOP_Calc.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\..\..\..\Mike's Stuff\School\PRG410\MWainwright_Week5_OOP_Calc\MWainwright_Week5_OOP_Calc\MWainwright_Week5_OOP_Calc.cpp" "..\..\..\..\..\Mike's Stuff\School\PRG410\MWainwright_Week5_OOP_Calc\MWainwright_Week5_OOP_Calc\SimpleMath.cpp"
+         SimpleMath.cpp
+         MWainwright_Week5_OOP_Calc.cpp
+     1>c:\users\hsoehner\documents\mike's stuff\school\prg410\mwainwright_week5_oop_calc\mwainwright_week5_oop_calc\mwainwright_week5_oop_calc.cpp(178): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\hsoehner\Documents\Mike's Stuff\School\PRG410\MWainwright_Week5_OOP_Calc\Debug\MWainwright_Week5_OOP_Calc.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\hsoehner\Documents\Mike's Stuff\School\PRG410\MWainwright_Week5_OOP_Calc\Debug\MWainwright_Week5_OOP_Calc.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\hsoehner\Documents\Mike's Stuff\School\PRG410\MWainwright_Week5_OOP_Calc\Debug\MWainwright_Week5_OOP_Calc.lib" /MACHINE:X86 Debug\MWainwright_Week5_OOP_Calc.obj
+         Debug\SimpleMath.obj
+         Debug\stdafx.obj
+         MWainwright_Week5_OOP_Calc.vcxproj -> C:\Users\hsoehner\Documents\Mike's Stuff\School\PRG410\MWainwright_Week5_OOP_Calc\Debug\MWainwright_Week5_OOP_Calc.exe
+     1>Done Building Project "C:\Users\hsoehner\Documents\Mike's Stuff\School\PRG410\MWainwright_Week5_OOP_Calc\MWainwright_Week5_OOP_Calc\MWainwright_Week5_OOP_Calc.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.98
